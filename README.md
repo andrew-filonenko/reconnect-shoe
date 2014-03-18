@@ -19,6 +19,7 @@ var sock = shoe(function (stream) {
 });
 
 sock.install(server, '/salutations');
+```
 
 The client:
 ``` js
