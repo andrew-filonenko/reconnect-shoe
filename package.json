@@ -9,13 +9,14 @@
   "homepage": "https://github.com/andrew-filonenko/reconnect-shoe",
   "main": "index.js",
   "dependencies": {
-    "shoe": "0.0.15"
+    "shoe": "0.0.15",
+    "reconnect-core": "0.0.1"
   },
   "keywords": [
     "reconnect",
     "shoe",
     "sockjs",
-    "websocket" 
+    "websocket"
   ],
   "author": {
     "name": "Andrey Filonenko",
