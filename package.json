@@ -1,7 +1,7 @@
 {
   "name": "reconnect-shoe",
   "description": "Reconnect a shoe stream when it goes down.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/andrew-filonenko/reconnect-shoe"
@@ -13,7 +13,9 @@
   },
   "keywords": [
     "reconnect",
-    "shoe"
+    "shoe",
+    "sockjs",
+    "websocket" 
   ],
   "author": {
     "name": "Andrey Filonenko",
