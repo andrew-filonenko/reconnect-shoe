@@ -1,7 +1,7 @@
 {
   "name": "reconnect-shoe",
   "description": "Reconnect a shoe stream when it goes down.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/andrew-filonenko/reconnect-shoe"
@@ -9,8 +9,8 @@
   "homepage": "https://github.com/andrew-filonenko/reconnect-shoe",
   "main": "index.js",
   "dependencies": {
-    "shoe": "0.0.15",
-    "reconnect-core": "0.0.1"
+    "reconnect-core": "^0.2.0",
+    "shoe": "0.0.15"
   },
   "keywords": [
     "reconnect",
